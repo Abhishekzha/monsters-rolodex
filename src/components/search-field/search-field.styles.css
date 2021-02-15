@@ -1,0 +1,14 @@
+.search-field{
+    margin: 20px;
+}
+
+.input-field{
+    border: none;
+    background-color: rgb(255, 249, 249);
+    padding:20px;
+
+}
+
+.input-field:focus{
+    outline: none;
+}

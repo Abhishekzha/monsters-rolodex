@@ -1,0 +1,16 @@
+.card{
+    padding:30px;
+    border:none;
+    border-radius: 3px;
+    background-color: aqua;
+    transition: all .2s;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.card:hover{
+    transform: translateY(-10px);
+}
